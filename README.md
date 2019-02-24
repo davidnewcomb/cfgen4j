@@ -4,14 +4,14 @@ Not added to Maven Central yet. (Coming soon!)
 
 ## Build
 
-    1. git clone https://github.com/davidnewcomb/cfgen4j.git
-    1. cd cfgen4j
-    1. mvn clean install
+    - git clone https://github.com/davidnewcomb/cfgen4j.git
+    - cd cfgen4j
+    - mvn clean install
 
 ## Run
 
-    1. cd target
-    1. java -jar cfgen4j-0.0.1-SNAPSHOT-jar-with-dependencies.jar -h
+    - cd target
+    - java -jar cfgen4j-0.0.1-SNAPSHOT-jar-with-dependencies.jar -h
 
 ```
 usage: cfgen4j [-h] -s [SPACEID] -p [PACKAGE] -f [FOLDER] -t [TOKEN] [-ec [EP_CORE]] [-eu [EP_UPLOAD]]
@@ -40,7 +40,7 @@ named arguments:
 
 ## More
 
-See [CHANGLOG.md] for history and more.
+See CHANGLOG.md for history and more.
 
 ## License
 
