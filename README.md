@@ -1,4 +1,4 @@
-# Contentful Model Genenerator for Java
+# Contentful Model Generator for Java
 
 Java code generator for [Contentful](https://www.contentful.com/) that can cope with unions of types.
 Replaces [Generator](https://github.com/contentful/generator.java) written by Contentful because it didn't work!
